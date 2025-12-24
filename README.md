@@ -1,4 +1,4 @@
-# Map Preview Component
+# Topology Vue Component
 
 用于拓扑配置的 Vue 3 组件库，使用dagre库来处理自适应拓扑配置，使用svg-pan-zoom来处理拓扑配置放大缩小
 
@@ -6,6 +6,7 @@
 
 ```bash
 npm install topology-vue
+yarn add topology-vue
 ```
 
 ## 开发
